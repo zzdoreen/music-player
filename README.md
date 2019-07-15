@@ -1,5 +1,4 @@
-# app
-
+# music-player
 > A Vue.js project
 
 ## Build Setup
