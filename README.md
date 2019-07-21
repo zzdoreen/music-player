@@ -3,6 +3,7 @@
 
 ## online demo :  https://zzdoreen.github.io/musicplayer/dist/index#/recommend 
 
+[ 数据接口是用的QQ音乐的，但是搜索和歌词的数据接口获取不了所以没有实现歌词显示和搜索功能，歌单的数据接口没有找到QAQ 所以首页推荐歌单内没有内容 ]
 ## Build Setup
 
 ``` bash
